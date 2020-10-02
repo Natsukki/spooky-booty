@@ -1,0 +1,21 @@
+{
+  "name": "project-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Natsukki",
+  "license": "ISC",
+  "engines": {
+    "node": "12.x",
+    "npm": "*"
+  },
+  "dependencies": {
+    "discord.js": "^12.3.1",
+    "dotenv": "^8.2.0"
+  }
+}
