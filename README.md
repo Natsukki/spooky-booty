@@ -20,5 +20,5 @@ I did this so I could change every `username` or `userNickName` in a discord ser
 
 ## Bugs
 
--Beware of long usernames/nicknames as the bot will crash because of discord's API restrictions on those.
--If permissions and role order are not set correctly the bot will not change the usernames.
+- Beware of long usernames/nicknames as the bot will crash because of discord's API restrictions on those.
+- If permissions and role order are not set correctly the bot will not change the usernames.
